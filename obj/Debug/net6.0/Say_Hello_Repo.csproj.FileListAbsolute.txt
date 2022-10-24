@@ -13,3 +13,18 @@
 /Users/patrickdeleon7/Documents/Codestack/Level1_Mac/SayHello_LocalRev/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.pdb
 /Users/patrickdeleon7/Documents/Codestack/Level1_Mac/SayHello_LocalRev/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.genruntimeconfig.cache
 /Users/patrickdeleon7/Documents/Codestack/Level1_Mac/SayHello_LocalRev/Say_Hello_Repo/obj/Debug/net6.0/ref/Say_Hello_Repo.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/bin/Debug/net6.0/Say_Hello_Repo
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/bin/Debug/net6.0/Say_Hello_Repo.deps.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/bin/Debug/net6.0/Say_Hello_Repo.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/bin/Debug/net6.0/Say_Hello_Repo.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/bin/Debug/net6.0/Say_Hello_Repo.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/refint/Say_Hello_Repo.dll
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.pdb
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/Say_Hello_Repo.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/PeerReview/SayHelloPatrick/Say_Hello_Repo/obj/Debug/net6.0/ref/Say_Hello_Repo.dll
