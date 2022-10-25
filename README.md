@@ -1,8 +1,6 @@
 // =================== SAY HELLO _ GITHUB ====================== //
 
-Name:
-
-Date: 
+Name: Patrick De Leon
 
 Peer reviewer:Angelica Ayala
 Date:10/24/22
